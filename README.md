@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Xudong.
 
-<!--
-**xudongyang2/xudongyang2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science professional with wonderfully diverse career to date in supply chain and fin-tech. I'm a firm believer that data science has the power to do a lot of good, that's the reason I chose to work on my most recent project with Vancouver Costal Health Research Institute: Using computer vision models to help health care professionals diagnose lipohypertrophy(a common complication among diabete patients who inject insulin) at the bed side. The deployed data product can be accessed [here](https://share.streamlit.io/xudongyang2/lipo_deploy/deployment/lipo_app.py).
 
-Here are some ideas to get you started:
+Besides, I'm also a python developer with a focus on open-source data analytics packages, here's a list of packages that I authored/co-authored so far:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[sktidy](https://github.com/UBC-MDS/sktidy)
+
+[sptidy](https://github.com/UBC-MDS/sptidy)
+
+At present, my main interests are:
+
+- 📊 Data science
+- ♻️ Reproducibility & open-source
+- 🌊 Climate changes
