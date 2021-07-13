@@ -4,9 +4,8 @@ I'm a data science professional with wonderfully diverse career to date in suppl
 
 Besides, I'm also a python developer with a focus on open-source data analytics packages, here's a list of packages that I authored/co-authored so far:
 
-[sktidy](https://github.com/UBC-MDS/sktidy)
-
-[sptidy](https://github.com/UBC-MDS/sptidy)
+- [sktidy](https://github.com/UBC-MDS/sktidy)
+- [sptidy](https://github.com/UBC-MDS/sptidy)
 
 At present, my main interests are:
 
