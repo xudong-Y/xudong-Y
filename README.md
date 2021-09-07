@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Xudong.
 
-I'm a data science professional with wonderfully diverse career to date in supply chain and fin-tech. I'm a firm believer that data science has the power to do a lot of good, which prompts me to work on a recent project with Vancouver Costal Health Research Institute: Using computer vision models to help health care professionals diagnose lipohypertrophy (a common complication among diabetes patients who inject insulin) at the bed side. The deployed data product can be accessed [here](https://share.streamlit.io/xudongyang2/lipo_deploy/deployment/lipo_app.py).
+I'm a data science professional with wonderfully diverse career to date in supply chain and fin-tech. I'm a firm believer that data science has the power to do a lot of good, which drives me to work on a recent project with Geriatrics and Diabetes Research Lab: Using computer vision models to help health care professionals diagnose lipohypertrophy (a common complication among diabetes patients who inject insulin) at the bed side. The deployed data product can be accessed [here](https://share.streamlit.io/xudongyang2/lipo_deploy/deployment/lipo_app.py).
 
 Besides, I'm also a python developer with a focus on open-source data analytics packages, here's a list of packages that I authored/co-authored so far:
 
