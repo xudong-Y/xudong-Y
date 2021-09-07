@@ -11,4 +11,4 @@ At present, my main interests are:
 
 - 📊 Data science
 - ♻️ Reproducibility & open-source
-- 🌊 Climate changes
+- 🏥 Health Care
