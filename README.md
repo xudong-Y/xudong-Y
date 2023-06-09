@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Peter.
+### Hi there 👋 I'm Xudong.
 
 I'm a data science professional and a economist by training. I'm a firm believer that data science has the power to do a lot of good, which drives me to work on a recent project with the Geriatrics and Diabetes Research Lab: leveraging Computer Vision models to help health care professionals diagnose lipohypertrophy (a common complication among diabetes patients who inject insulin) at the bed side. The deployed data product can be accessed [here](https://xudong-y-lipo-deploy-lipo-app-80iuwz.streamlit.app/).
 
